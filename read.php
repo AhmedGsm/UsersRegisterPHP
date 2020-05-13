@@ -42,4 +42,5 @@ if(sizeof($data) == 0 ) {
 // Send data to client
 echo json_encode($data);
 
+
 ?>
